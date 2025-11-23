@@ -1,4 +1,5 @@
 # MERN Product Landing Page – Trizen Ventures Assignment
+https://mern-product-landing-frontend.onrender.com/
 
 A modern product landing page built using the **MERN stack** with live search suggestions, category filters, responsive UI, and a professional visual design.
 
